@@ -2,7 +2,6 @@ package com.springframework.converters;
 
 import com.springframework.commands.RecipeCommand;
 import com.springframework.domain.*;
-import guru.springframework.domain.*;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
